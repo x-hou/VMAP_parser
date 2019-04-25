@@ -4,8 +4,10 @@
 
 This program can calculate VWAP per hour based on NASDAQ ITCH50 dataset.
 
-To run this program, put "01302019.NASDAQ_ITCH50.gz" file in the same folder with "parser.py", open terminal and run "Python3 parser.py"
-
+To run this program, put "01302019.NASDAQ_ITCH50.gz" file in the same folder with "parser.py", open terminal and run
+```
+Python3 parser.py
+```
 The output will be stored as "vwap_01302019.csv" on the same folder.
 
 ### [Introduction of NASDAQ ITCH50 Dataset](http://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/NQTVITCHspecification.pdf)
